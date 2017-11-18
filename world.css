@@ -1,0 +1,10 @@
+h1 {text-align: center;
+	font-family: fantasy;
+	border-style: double;
+	color: green;
+	background-color:black;
+	border-color: gold;
+}
+body {
+	background-color: green;
+}
